@@ -1,0 +1,49 @@
+{
+	"basics":{
+		"name":"priya",
+		"role":"mean-stack",
+		"mobile":"+91 8555930123",
+		"email":"priyareddy@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+			"degree":"B-Tech(computer science and engineering)",
+			"institute":"vignan nirula",
+			"data":["2016-2020","88%"]
+		},
+		{
+			"degree":"doploma(CHE)",
+			"institute":"suvr & SR",
+			"data":["2014-2017","91%"]
+		},
+		{
+			"degree":"S.S.C",
+			"institute":"oxford",
+			"data":["2014","95%"]
+		}
+],
+"skills":[
+{
+	"title":"programming language",
+	"content":["phython","c","R"]
+},
+
+{
+"title":"Data bases",
+	"content":["Sql","Oracle","mySql"]
+},
+{
+	"title":"Web Technology",
+	"content":["HTML","XML","Javascript","css"]
+},
+{
+"title":"Operating system",
+	"content":["windows","unix","linuix"]	
+}
+]
+
+}
+	
